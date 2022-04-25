@@ -1,0 +1,2 @@
+services:
+  App\Service\StocksApiInterface: '@App\Service\DummyStocksApi'

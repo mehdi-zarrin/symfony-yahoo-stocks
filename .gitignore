@@ -9,6 +9,8 @@
 /app/vendor/
 /app/var/cache
 /app/var/data.db
+/app/.env
+/app/.env.test
 ###< symfony/framework-bundle ###
 
 ###> symfony/phpunit-bridge ###
